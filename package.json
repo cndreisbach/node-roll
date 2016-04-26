@@ -33,12 +33,7 @@
     "url": "https://github.com/TroyGoode/node-roll/issues"
   },
   "main": "./lib/index.js",
-  "engines": {
-    "node": ">=0.10.0"
-  },
-  "dependencies": {
-    "require-directory": "^2.0.0"
-  },
+  "dependencies": {},
   "devDependencies": {
     "lint": "^1.1.2",
     "mocha": "^1.18.2",
